@@ -1,0 +1,57 @@
+[
+    {
+        "source": "harry",
+        "target": "hermione",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "harry",
+        "target": "ron",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "ron",
+        "target": "hermione",
+        "interaction": "close_friends"
+    },
+    {
+        "source": "frodo",
+        "target": "aragorn",
+        "interaction": "travel_companions"
+    },
+    {
+        "source": "frodo",
+        "target": "gandalf",
+        "interaction": "mentorship"
+    },
+    {
+        "source": "aragorn",
+        "target": "legolas",
+        "interaction": "allies"
+    },
+    {
+        "source": "legolas",
+        "target": "gimli",
+        "interaction": "unlikely_friends"
+    },
+    {
+        "source": "luke",
+        "target": "leia",
+        "interaction": "siblings"
+    },
+    {
+        "source": "luke",
+        "target": "vader",
+        "interaction": "father_son"
+    },
+    {
+        "source": "vader",
+        "target": "emperor",
+        "interaction": "master_apprentice"
+    },
+    {
+        "source": "harry",
+        "target": "voldemort",
+        "interaction": "arch_rivals"
+    }
+]
